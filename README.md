@@ -93,7 +93,7 @@ Efficient use of KPIs, interactivity, and role-based metrics.
 Great for insurance, banking, or sales-focused industries.
 
 Screenshots / Demos
-Show what the dashboard looks like :-Example
+Show what the dashboard looks like (https://github.com/neha-iert/Insurance-Weekly-Branch-Performace-Dashboard/blob/main/Insurace_Analysis_Weekly_Branch_Dashboard).JPG
  
  
 
