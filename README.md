@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/59f7b3e2-97ac-46ac-8c56-77b0a263ec56)
 # Insurance Analysis
 📊 Weekly Branch Performance Dashboard – Power BI Project
 This Power BI project provides a weekly performance snapshot for a branch office, focusing on key business metrics such as cross-sell, renewals, invoice achievements, meetings, and sales opportunities. It’s designed for sales managers, team leads, and executives to track productivity and identify revenue-driving areas in real time.
